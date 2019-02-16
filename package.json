@@ -1,0 +1,16 @@
+{
+  "name": "ping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "chalk": "^2.4.2"
+  }
+}
