@@ -13,3 +13,7 @@ npm install
 node ping.js
 
 ```
+
+## 结果
+
+![image](https://github.com/ifredom/node-ping/raw/master/test/img.png)
